@@ -32,3 +32,17 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"ernesto":
+  - firstname: ["Ernesto", "Ernesto Jiménez-Ruiz"]
+    url: https://www.city.ac.uk/people/academics/ernesto-jimenez-ruiz
+
+"garcez":
+  - firstname: [ "A", "Garcez", "Artur S. d'Avila", "Artur", "Artur S d’Avila"]
+    url: http://www.staff.city.ac.uk/~aag/
+
+"tarroni":
+  - firstname: ["Tarroni", "Giacomo"]
+    url: https://www.citystgeorges.ac.uk/about/people/academics/giacomo-tarroni
+
+

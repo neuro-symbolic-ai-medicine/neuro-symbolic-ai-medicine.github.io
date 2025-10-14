@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Zurich 2024
+description: Zurich 2024
+img: assets/img/meetups/zurich2024.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: Meetups
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

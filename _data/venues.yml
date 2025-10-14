@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"Springer":
+  url: https://link.springer.com/book/10.1007/978-1-4471-0211-3
+  color: "#009f36"
+
+"AAAI":
+  url: https://aaai.org/papers/10281-10281-neural-symbolic-learning-and-reasoning-contributions-and-challenges/
+  color: "#00369f"
