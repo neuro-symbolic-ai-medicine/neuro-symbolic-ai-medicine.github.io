@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-<ul> <br /> 
+<br /> 
   <p>
 Artificial intelligence is already transforming medicine, with systems like ChatGPT showing impressive abilities across many tasks. Yet, such systems can still make mistakes, reflect bias, or behave unpredictably. Current AI methods based purely on deep learning lack transparency and control. Neurosymbolic AI offers a promising alternative by combining data-driven learning with rule-based reasoning grounded in clinical knowledge. This hybrid approach aims to make AI systems both powerful and understandable. 
   </p>
@@ -36,8 +36,6 @@ Artificial intelligence is already transforming medicine, with systems like Chat
   <p>
 We have built a wide-ranging network to advance neurosymbolic AI in medicine. Together with key partners, we are defining a roadmap for transparent, fair, and safe medical AI. This network will lay the groundwork for future collaborations and larger research projects.
   </p>
-
-</ul>
 
 ---
 
