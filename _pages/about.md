@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: We aim to establish a neurosymbolic approach to AI for the field of medicine. Funded by <a href='https://acmedsci.ac.uk'>The Academy of Medical Sciences</a>.
+subtitle: Network funded by <a href='https://acmedsci.ac.uk'>The Academy of Medical Sciences</a>.
 
 profile:
   align: right
@@ -13,11 +13,11 @@ profile:
     
     
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: flase # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -29,11 +29,13 @@ latest_posts:
 
 
 <ul> <br /> 
-  <li> <a>Our core-partners and collaborators together with key researchers in neurosymbolic AI worldwide will define a research agenda and roadmap to establish this technology and address current pressing open questions for medical AI, including transparent explanations, addressing bias, and ensuring robustness and safety. </a>
-  </li>
+  <p>
+Artificial intelligence is already transforming medicine, with systems like ChatGPT showing impressive abilities across many tasks. Yet, such systems can still make mistakes, reflect bias, or behave unpredictably. Current AI methods based purely on deep learning lack transparency and control. Neurosymbolic AI offers a promising alternative by combining data-driven learning with rule-based reasoning grounded in clinical knowledge. This hybrid approach aims to make AI systems both powerful and understandable. 
+  </p>
 
-  <li> <a>This network and roadmap will increase the potential of AI for medical applications. </a> 
-  </li>
+  <p>
+We have built a wide-ranging network to advance neurosymbolic AI in medicine. Together with key partners, we are defining a roadmap for transparent, fair, and safe medical AI. This network will lay the groundwork for future collaborations and larger research projects.
+  </p>
 
 </ul>
 
