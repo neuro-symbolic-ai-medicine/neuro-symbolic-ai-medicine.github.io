@@ -444,11 +444,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-dagstuhl-2025",
+          title: 'Dagstuhl 2025',
+          description: "Dagstuhl Seminar 25291, 13-18 Jul 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/dagstuh2025/";
+              window.location.href = "/projects/dagstuhl2025/";
             },},{id: "projects-zurich-2024",
           title: 'Zurich 2024',
           description: "Kick-off Meeting, 4–5 July 2024",
