@@ -414,11 +414,6 @@ ninja.data = [{
           description: "dagstuhl 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-zurich-2024-meeting",
-          title: 'Zurich 2024 Meeting',
-          description: "Zurich 2024 Meeting",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -454,6 +449,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-zurich-2024-meeting",
+          title: 'Zurich 2024 Meeting',
+          description: "Kick-off Meeting, 4–5 July 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zurich2024/";
             },},{
         id: 'social-email',
         title: 'email',
