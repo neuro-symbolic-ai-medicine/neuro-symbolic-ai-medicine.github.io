@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Zurich 2024 Meeting
+title: Zurich 2024
 description: Kick-off Meeting, 4–5 July 2024
 img: assets/img/meetups/zurich2024-crop.jpg
-importance: 2
+importance: 1
 category: Meetups
 giscus_comments: false
 ---
