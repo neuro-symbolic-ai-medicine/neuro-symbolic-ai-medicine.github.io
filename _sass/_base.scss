@@ -164,13 +164,14 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 }
 
-// Card
+// Card (modified previous width: 100%)
 
 .card {
   background-color: var(--global-card-bg-color);
 
   .card-img {
-    width: 100%;
+    width: 100px;
+    height: 75px;
     padding-top: 1.25rem;
   }
 
