@@ -9,9 +9,6 @@ profile:
   # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  
-    
-    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,7 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 <br /> 
   <p>
 Artificial intelligence is already transforming medicine, with systems like ChatGPT showing impressive abilities across many tasks. Yet, such systems can still make mistakes, reflect bias, or behave unpredictably. Current AI methods based purely on deep learning lack transparency and control. Neurosymbolic AI offers a promising alternative by combining data-driven learning with rule-based reasoning grounded in clinical knowledge. This hybrid approach aims to make AI systems both powerful and understandable. 
@@ -38,6 +34,3 @@ We have built a wide-ranging network to advance neurosymbolic AI in medicine. To
   </p>
 
 ---
-
-
-
