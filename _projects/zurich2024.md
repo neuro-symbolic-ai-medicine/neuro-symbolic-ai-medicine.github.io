@@ -19,7 +19,8 @@ giscus_comments: false
 
 The kick-off meeting launched the **Neurosymbolic AI for Medicine** network, bringing together researchers to define how neural learning and symbolic reasoning can be combined for safer, more transparent medical AI. Participants discussed definitions and boundaries of NeSy systems, their importance for integrating diverse medical data and clinical knowledge, and the challenges of bias, explainability, and regulation. The network agreed to produce a **white paper and roadmap**, and build a shared platform for collaboration and resources—laying the foundation for a global community advancing trustworthy, knowledge-driven AI in healthcare.
 
-#### Agenda
+
+### Agenda
 
 **Day 1 — Internal Network Kick-off Meeting**
 _UZH Main Building, Rämistrasse 71, Room KOL-F-123_
@@ -52,29 +53,29 @@ _Part of the DSI Health Seminar Series: “Machine Learning in Health that Matte
 **Morning Session**
 **09:00 – 09:10** — _Welcome_ — Ernesto & Janna  
 **09:10 – 09:30** — _Introduction to the AMS Network NSAI-Med_ — Ernesto & Janna  
-**09:30 – 10:00** — _Neural-symbolic Knowledge Representation with Ontology and KG Embeddings_ — Jiaoyan Chen  
+**09:30 – 10:00** — _Neural-symbolic Knowledge Representation with Ontology and KG Embeddings_ — Jiaoyan Chen ([Slides](assets/pdf/meetups/zurich-jiaoyan.pdf)) 
 **10:00 – 10:30** — _What do Knowledge Graph Embeddings Actually Learn?_ — Heiko Paulheim  
 **10:30 – 11:00** — _Coffee Break_  
-**11:00 – 11:30** — _Neurosymbolic Techniques for Relation Extraction from Text_ — V. Raghava Mutharaju  
-**11:30 – 12:00** — _Neuro-symbolic Approaches for Knowledge Graph Refinement and Explanations_ — Claudia d’Amato  
+**11:00 – 11:20** — _Neurosymbolic Techniques for Relation Extraction from Text_ — V. Raghava Mutharaju  ([Slides](assets/pdf/meetups/zurich-raghava.pdf))
+**11:20 – 12:40** — _Neuro-symbolic Approaches for Knowledge Graph Refinement and Explanations_ — Claudia D'Amato ([Slides](assets/pdf/meetups/zurich-claudia.pdf))  
+**11:40 – 12:00** — _BioBLP: A modular framework for representation learning over biomedical knowledge graphs_ — Michael Cochez ([Slides](assets/pdf/meetups/zurich-michael.pdf))
 **12:00 – 12:30** — _Considerations for Pediatric AI/ML from a Global Health Perspective_ — Joel Schamroth  
 **12:30 – 13:30** — _Lunch_
 
----
 
 **Afternoon Session — Hackathon / Promptathon**
 **13:30 – 14:00** — Topic pitches: _LLMs and Knowledge Graphs for Medicine_  
 **14:00 – 16:00** — Group work sessions (with coffee at 15:00)  
 **16:00 – 16:30** — Feedback presentations from groups
 
----
-
 **Evening Session**
 **17:00 – 18:00** — _Keynote: “Machine Learning in Health that Matters – Building an AI-Ready World”_ — Leo Anthony Celi  
 **18:00 – 19:00** — _Apéro and Networking_  
 **19:30+** — _Dinner at Brasserie Johanniter_
 
-#### Outcomes and Discussion
+---
+
+### Outcomes and Discussions
 
 The meeting established a shared vision for **Neurosymbolic AI in Medicine**:  
 to develop hybrid systems that combine the learning power of neural models with the transparency, reasoning, and domain knowledge of symbolic approaches—toward safer, fairer, and more trustworthy medical AI.
