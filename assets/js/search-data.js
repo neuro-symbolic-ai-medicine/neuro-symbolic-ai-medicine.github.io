@@ -409,12 +409,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-dagstuhl-2025",
-          title: 'Dagstuhl 2025',
-          description: "dagstuhl 2025",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -449,8 +444,13 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-zurich-2024-meeting",
-          title: 'Zurich 2024 Meeting',
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dagstuh2025/";
+            },},{id: "projects-zurich-2024",
+          title: 'Zurich 2024',
           description: "Kick-off Meeting, 4–5 July 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zurich2024/";
