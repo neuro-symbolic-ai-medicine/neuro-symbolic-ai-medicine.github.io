@@ -7,14 +7,12 @@ nav: true
 nav_order: 7
 
 profiles:
-
   - align: right
     image: /profiles/janna_hastings.jpeg
     content: /profiles/about_janna.md
     image_circular: false
     more_info: >
       <p>UNIVERSITY OF ZURICH</p>
-      
 
   - align: left
     image: /profiles/ernesto.jpeg
@@ -23,8 +21,7 @@ profiles:
     more_info: >
       <p>City St. Georges, University of London, UK</p>
 
-
-# Core
+  # Core
 
   - align: right
     image: /profiles/heiko.jpeg
@@ -36,7 +33,7 @@ profiles:
   - align: left
     image: /profiles/Alessandra Mileo.jpeg
     content: /profiles/about_alessandra.md
-    image_circular: false 
+    image_circular: false
     more_info: >
       <p>Dublin City University</p>
 
@@ -64,7 +61,7 @@ profiles:
       <p>Vrije Universiteit Amsterdam, Netherlands</p>
       <p>Michael Cochez</p>
 
-# Colab
+  # Colab
 
   - align: left
     # image: /profiles/janna/janna_hastings.jpeg
@@ -165,7 +162,7 @@ profiles:
     more_info: >
       <p>St George's, London, UK</p>
       <p>Franklyn Howe</p>
-   
+
   - align: right
     image_circular: false
     more_info: >
@@ -178,7 +175,7 @@ profiles:
     more_info: >
       <p>Politecnico di Torino</p>
       <p>Lia Morra</p>
- 
+
   - align: right
     image_circular: false
     more_info: >
@@ -191,20 +188,6 @@ profiles:
     more_info: >
       <p>University of Mannheim, Germany</p>
       <p>Sven Hertling</p>
-
- 
-
-
-
- 
-
-
-
- 
-
-
- 
-
 
 # -  (): AI for Collective Intelligence.
 # - Dagmar Gromann (University of Vienna, Austria): Bias in Large language Models and AI. Explainable AI.
@@ -220,9 +203,4 @@ profiles:
 
 # - Jiaoyan Chen (University of Manchester, UK): Large language models and Knowledge graphs. Integration of biomedical ontologies.
 # - Eleonora Giunchiglia (TU Wien, Austria): Deep Learning with Logical Constraints.
-
-
-      
-      
-
 ---
