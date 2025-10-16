@@ -53,12 +53,12 @@ _Part of the DSI Health Seminar Series: “Machine Learning in Health that Matte
 **Morning Session**
 **09:00 – 09:10** — _Welcome_ — Ernesto & Janna  
 **09:10 – 09:30** — _Introduction to the AMS Network NSAI-Med_ — Ernesto & Janna  
-**09:30 – 10:00** — _Neural-symbolic Knowledge Representation with Ontology and KG Embeddings_ — Jiaoyan Chen ([Slides](assets/pdf/meetups/zurich-jiaoyan.pdf)) 
+**09:30 – 10:00** — _Neural-symbolic Knowledge Representation with Ontology and KG Embeddings_ — Jiaoyan Chen ([Slides](../../assets/pdf/meetups/zurich-jiaoyan.pdf)) 
 **10:00 – 10:30** — _What do Knowledge Graph Embeddings Actually Learn?_ — Heiko Paulheim  
 **10:30 – 11:00** — _Coffee Break_  
-**11:00 – 11:20** — _Neurosymbolic Techniques for Relation Extraction from Text_ — V. Raghava Mutharaju  ([Slides](assets/pdf/meetups/zurich-raghava.pdf))
-**11:20 – 12:40** — _Neuro-symbolic Approaches for Knowledge Graph Refinement and Explanations_ — Claudia D'Amato ([Slides](assets/pdf/meetups/zurich-claudia.pdf))  
-**11:40 – 12:00** — _BioBLP: A modular framework for representation learning over biomedical knowledge graphs_ — Michael Cochez ([Slides](assets/pdf/meetups/zurich-michael.pdf))
+**11:00 – 11:20** — _Neurosymbolic Techniques for Relation Extraction from Text_ — V. Raghava Mutharaju  ([Slides](../../assets/pdf/meetups/zurich-raghava.pdf))
+**11:20 – 12:40** — _Neuro-symbolic Approaches for Knowledge Graph Refinement and Explanations_ — Claudia D'Amato ([Slides](../../assets/pdf/meetups/zurich-claudia.pdf))  
+**11:40 – 12:00** — _BioBLP: A modular framework for representation learning over biomedical knowledge graphs_ — Michael Cochez ([Slides](../../assets/pdf/meetups/zurich-michael.pdf))
 **12:00 – 12:30** — _Considerations for Pediatric AI/ML from a Global Health Perspective_ — Joel Schamroth  
 **12:30 – 13:30** — _Lunch_
 
