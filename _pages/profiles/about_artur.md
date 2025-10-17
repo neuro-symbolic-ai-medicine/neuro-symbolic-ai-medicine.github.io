@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Prof. Artur d'Avila Garcez</h3>
-<h5 class="post-description">Colaborating Partner</h5>
+<h5 class="post-description">Network Colaborator</h5>
 </header>
 
 President of the Neural-Symbolic Learning and Reasoning Association, extensive experience in applying neurosymbolic AI in a range of domains, including medical imaging.
