@@ -14,7 +14,10 @@ related_publications: false
     </div>
 </div>
 
-Most of the network participants were invited to attend the [Dagstuhl Seminar 25291](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25291) on (Actual) Neurosymbolic AI: Combining Deep Learning and Knowledge Graphs. Pascal Hitzler, a member of the Network was one of the co-organisers.
+[Photos album](https://photos.app.goo.gl/mdeRvh49h1izZNrv9) about the event.
+
+
+Most of the network participants were invited to attend the [Dagstuhl Seminar 25291](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25291) on (Actual) Neurosymbolic AI: Combining Deep Learning and Knowledge Graphs. Pascal Hitzler, a member of the Network, was one of the co-organisers.
 
 Over the past decade, **deep learning (DL)** and **knowledge graphs (KGs)** have achieved major breakthroughs. DL has advanced through large-scale data, transformer models, and modern hardware, while KGs have matured thanks to web-scale integration, standardization, and improved reasoning methods. These parallel developments have sparked growing interest in how the two can complement each other.
 
