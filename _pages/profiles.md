@@ -8,7 +8,7 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: /profiles/janna_hastings.jpeg
+    image: /profiles/janna.jpeg
     content: /profiles/about_janna.md
     image_circular: false
     more_info: >
@@ -31,14 +31,14 @@ profiles:
       <p>University of Mannheim, Germany</p>
 
   - align: left
-    image: /profiles/Alessandra Mileo.jpeg
+    image: /profiles/alessandra.jpeg
     content: /profiles/about_alessandra.md
     image_circular: false
     more_info: >
       <p>Dublin City University</p>
 
   - align: right
-    # image: /profiles/
+    image: /profiles/mehwish.jpeg
     content: /profiles/about_mehwish.md
     image_circular: false
     more_info: >
@@ -46,7 +46,7 @@ profiles:
       <p>Mehwish Alam<p>
 
   - align: left
-    # image: /profiles/
+    image: /profiles/pascal.jpeg
     content: /profiles/about_pascal.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -54,8 +54,8 @@ profiles:
       <p>Pascal Hitzler</p>
 
   - align: right
-    # image: /profiles/janna/
-    # content: /profiles/about_.md
+    image: /profiles/michael.jpeg
+    content: /profiles/about_michael.md
     image_circular: false
     more_info: >
       <p>Vrije Universiteit Amsterdam, Netherlands</p>
@@ -64,55 +64,64 @@ profiles:
   # Colab
 
   - align: left
-    # image: /profiles/janna/janna_hastings.jpeg
-    # content: /profiles/about_janna.md
+    image: /profiles/catia.jpeg
+    content: /profiles/about_catia.md
     image_circular: false
     more_info: >
       <p>University of Lisbon, Portugal</p>
       <p>Catia Pesquita</p>
 
   - align: right
+    image: /profiles/eleonora.jpeg
+    content: /profiles/about_eleonora.md
     image_circular: false
     more_info: >
       <p>TU Wien, Austria</p>
       <p>Eleonora Giunchiglia</p>
 
   - align: left
+    image: /profiles/dagmar.jpeg
+    content: /profiles/about_dagmar.md
     image_circular: false
     more_info: >
       <p>University of Vienna, Austria</p>
       <p>Dagmar Gromann</p>
 
   - align: right
-    # content: /profiles/
+    image: /profiles/son.jpeg
+    content: /profiles/about_son.md
     image_circular: false
     more_info: >
       <p>Deakin University, Australia</p>
       <p>Son N. Tran</p>
 
   - align: left
-    # content: /profiles/
+    image: /profiles/pierre.jpeg
+    content: /profiles/about_pierre.md
     image_circular: false
     more_info: >
       <p>University of Montreal, Canada</p>
       <p>Pierre Levy</p>
 
   - align: right
-    # content: /profiles/
+    image: /profiles/raghava.jpeg
+    content: /profiles/about_raghava.md
     image_circular: false
     more_info: >
       <p>IIIT-Delhi, India</p>
       <p>Raghava Mutharaju</p>
 
   - align: left
-    # content: /profiles/
+    image: /profiles/egor.jpeg
+    content: /profiles/about_egor.md
     image_circular: false
     more_info: >
       <p>University of Oslo, Norway</p>
       <p>Egor Kostylev</p>
 
   - align: right
-    # content: /profiles/
+    image: /profiles/jiaoyan.jpeg
+    content: /profiles/about_jiaoyan.md
     image_circular: false
     more_info: >
       <p>University of Manchester, UK</p>
@@ -126,24 +135,31 @@ profiles:
       <p>City St. Georges, University of London, UK</p>
 
   - align: right
+    image: /profiles/claudia.jpeg
+    content: /profiles/about_claudia.md
     image_circular: false
     more_info: >
       <p>University of Bari, Italy</p>
       <p>Claudia d'Amato</p>
 
   - align: left
+    image: /profiles/wen.jpeg
+    content: /profiles/about_wen.md
     image_circular: false
     more_info: >
       <p>Zhejiang University, China</p>
       <p>Wen Zhang</p>
 
   - align: right
+    image: /profiles/ilaria.jpeg
+    content: /profiles/about_ilaria.md
     image_circular: false
     more_info: >
       <p>Vrije Universiteit Amsterdam, Netherlands</p>
       <p>Ilaria Tiddi</p>
 
   - align: left
+    image: /profiles/natalia.jpeg
     image_circular: false
     content: /profiles/about_natalia.md
     more_info: >
@@ -151,56 +167,49 @@ profiles:
       <p>Natalia Díaz Rodríguez</p>
 
   - align: right
+    image: /profiles/jack.jpeg
+    content: /profiles/about_jack.md
     image_circular: false
     more_info: >
       <p>Harward University</p>
       <p>Jack Gallifant</p>
 
   - align: left
+    content: /profiles/about_franklyn.md
     image_circular: false
-    content: /profiles/about_natalia.md
     more_info: >
       <p>St George's, London, UK</p>
       <p>Franklyn Howe</p>
 
   - align: right
+    image: /profiles/valentina.jpeg
+    content: /profiles/about_valentina.md
     image_circular: false
     more_info: >
       <p>University of Liverpool</p>
       <p>Valentina Tamma</p>
 
   - align: left
+    image: /profiles/lia.jpeg
+    content: /profiles/about_lia.md
     image_circular: false
-    content: /profiles/about_natalia.md
     more_info: >
       <p>Politecnico di Torino</p>
       <p>Lia Morra</p>
 
   - align: right
+    image: /profiles/rita.jpeg
+    content: /profiles/about_rita.md
     image_circular: false
     more_info: >
       <p>University of Mannheim, Germany</p>
       <p>Rita Sousa</p>
 
   - align: left
+    content: /profiles/about_sven.md
     image_circular: false
-    content: /profiles/about_natalia.md
     more_info: >
       <p>University of Mannheim, Germany</p>
       <p>Sven Hertling</p>
 
-# -  (): AI for Collective Intelligence.
-# - Dagmar Gromann (University of Vienna, Austria): Bias in Large language Models and AI. Explainable AI.
-# - Raghava Mutharaju (IIIT-Delhi, India): Neurosymbolic AI for Biomedical Relation Extraction.
-
-# - Claudia d'Amato (University of Bari, Italy): Deep Learning and Knowledge Graphs.
-
-# - Son N. Tran (Deakin University, Australia): Interpretability in AI.
-# - Wen Zhang (Zhejiang University, China): Learning with knowledge graphs.
-
-# - Egor Kostylev (University of Oslo, Norway): Logical expressiveness of Graph Neural Networks.
-# - Ilaria Tiddi (Vrije Universiteit Amsterdam, Netherlands): Combination of machine learning, semantic technologies, open data and cognitive theories.
-
-# - Jiaoyan Chen (University of Manchester, UK): Large language models and Knowledge graphs. Integration of biomedical ontologies.
-# - Eleonora Giunchiglia (TU Wien, Austria): Deep Learning with Logical Constraints.
 ---

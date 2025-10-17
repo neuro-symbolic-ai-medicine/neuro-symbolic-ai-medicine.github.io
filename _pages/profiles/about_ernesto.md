@@ -1,6 +1,6 @@
 
 <header class="post-header">
-<h3 class="post-title">Dr. Ernesto Jiménez-Ruiz </h3>
+<h3 class="post-title">Dr. Ernesto Jiménez-Ruiz</h3>
 <h5 class="post-description">Network Co-lead</h5>
 </header>
 
