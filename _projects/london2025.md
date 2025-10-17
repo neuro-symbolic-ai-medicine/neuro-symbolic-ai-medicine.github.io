@@ -18,15 +18,15 @@ related\_publications: false
 
 
 
-<!-- div class="row">
+<div class="row">
 
 &nbsp;   <div class="col-sm mt-3 mt-md-0">
 
-&nbsp;       {% include figure.liquid loading="eager" path="assets/img/meetups/nesy2024a.jpg" title="NeSy Conference September 2024" class="img-fluid rounded z-depth-1" %}
+&nbsp;       {% include figure.liquid loading="eager" path="assets/img/meetups/london2025wave.jpg" title="St George's Meeting 2025" class="img-fluid rounded z-depth-1" %}
 
 &nbsp;   </div>
 
-</div -->
+</div>
 
 
 

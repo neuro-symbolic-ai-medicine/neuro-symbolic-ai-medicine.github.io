@@ -10,17 +10,16 @@ profiles:
   - align: right
     image: /profiles/janna_hastings.jpeg
     content: /profiles/about_janna.md
-    image_circular: false
+    image_circular: true
     more_info: >
-      <p>UNIVERSITY OF ZURICH</p>
+      
 
   - align: left
     image: /profiles/ernesto.jpeg
     content: /profiles/about_ernesto.md
-    image_circular: false
+    image_circular: true
     more_info: >
-      <p>City St. Georges, University of London, UK</p>
-
+      
   # Core
 
   - align: right

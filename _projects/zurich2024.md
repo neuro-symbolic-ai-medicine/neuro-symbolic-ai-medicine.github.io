@@ -17,7 +17,7 @@ giscus_comments: false
     This image can also have a caption. It's like magic.
 </div -->
 
-[Photos album](https://photos.app.goo.gl/1rJgUnT36WHGh15p8) about the event.
+[Photo album](https://photos.app.goo.gl/1rJgUnT36WHGh15p8) about the event.
 
 The kick-off meeting launched the **Neurosymbolic AI for Medicine** network, bringing together researchers to define how neural learning and symbolic reasoning can be combined for safer, more transparent medical AI. Participants discussed definitions and boundaries of NeSy systems, their importance for integrating diverse medical data and clinical knowledge, and the challenges of bias, explainability, and regulation. The network agreed to produce a **white paper and roadmap**, and build a shared platform for collaboration and resources—laying the foundation for a global community advancing trustworthy, knowledge-driven AI in healthcare.
 
