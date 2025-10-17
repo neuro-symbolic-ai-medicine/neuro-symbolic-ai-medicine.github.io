@@ -454,6 +454,11 @@ ninja.data = [{
           description: "St George&#39;s Meeting, 27-28 February 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/london2025/";
+            },},{id: "projects-nesy-for-primary-lymphoedema",
+          title: 'NeSy for Primary Lymphoedema',
+          description: "AI-assisted diagnosis of primary lymphoedema",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mristgeorges/";
             },},{id: "projects-nesy-2024",
           title: 'NeSy 2024',
           description: "NeSy Conference, 9-12 September 2024",
