@@ -449,6 +449,16 @@ ninja.data = [{
           description: "Dagstuhl Seminar 25291, 13-18 Jul 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dagstuhl2025/";
+            },},{id: "projects-london-2025",
+          title: 'London 2025',
+          description: "St George&#39;s Meeting, 27-28 February 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/london2025/";
+            },},{id: "projects-nesy-2024",
+          title: 'NeSy 2024',
+          description: "NeSy Conference, 9-12 September 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nesy2024/";
             },},{id: "projects-zurich-2024",
           title: 'Zurich 2024',
           description: "Kick-off Meeting, 4–5 July 2024",
