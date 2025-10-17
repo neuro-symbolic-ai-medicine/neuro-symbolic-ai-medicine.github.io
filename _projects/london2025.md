@@ -8,7 +8,7 @@ description: St George's Meeting, 27-28 February 2025
 
 img: assets/img/meetups/london2025.jpg
 
-importance: 3
+importance: 4
 
 category: Meetups
 
@@ -30,7 +30,7 @@ related\_publications: false
 
 
 
-As part of the Network’s key performance indicators (KPIs), a meeting was held between the two coordinators, Janna Hastings and Ernesto Jimenez-Ruiz. This visit also provided an opportunity to go to St George’s Hospital, where they met with Franklyn Howe and presented the Network’s work to a group of clinicians.
+As part of the Network's key performance indicators (KPIs), a meeting was held between the two coordinators, Janna Hastings and Ernesto Jimenez-Ruiz. This visit also provided an opportunity to go to St George's Hospital, where they met with Franklyn Howe and presented the Network's work to a group of clinicians.
 
 
 
@@ -113,18 +113,6 @@ The talk demonstrates practical evaluations of open-source LLMs for literature s
 \*\*Abstract:\*\*
 
 Large language models (e.g., ChatGPT) are leading to impressive results on text generation. There are however important issues with respect to bias, fairness, copyright violation, misinformation and explainability. The combination with symbolic knowledge (e.g. knowledge graphs) may mitigate these issues. At the same time large language models are becoming essential on the creation and extension of symbolic knowledge, facilitating their application at scale. The presentation provides a brief summary of the opportunities of combining (Large) Language Models with knowledge graphs.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
