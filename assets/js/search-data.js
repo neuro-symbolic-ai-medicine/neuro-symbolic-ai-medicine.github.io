@@ -444,6 +444,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-cerebra-ai-project-bid",
+          title: 'CEREBRA-AI project bid',
+          description: "Advancing GenAI4EU (RIA) (AI/Data/Robotics Partnership)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cerebra/";
             },},{id: "projects-dagstuhl-2025",
           title: 'Dagstuhl 2025',
           description: "Dagstuhl Seminar 25291, 13-18 Jul 2025",
