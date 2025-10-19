@@ -464,6 +464,11 @@ ninja.data = [{
           description: "NeSy Conference, 9-12 September 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nesy2024/";
+            },},{id: "projects-turing-kg-2025",
+          title: 'Turing KG 2025',
+          description: "Turing KG Meettup, 12 September 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/turingKG2025/";
             },},{id: "projects-zurich-2024",
           title: 'Zurich 2024',
           description: "Kick-off Meeting, 4–5 July 2024",
