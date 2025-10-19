@@ -17,13 +17,15 @@ related_publications: false
 
 As part of the Network's key performance indicators (KPIs), a meeting was held between the two coordinators, Janna Hastings and Ernesto Jimenez-Ruiz. This visit also provided an opportunity to go to St George's Hospital, where they met with Franklyn Howe and presented the Network's work to a group of clinicians.
 
-#### Day 1 (afternoon)
+#### Agenda
+
+**Day 1 (afternoon)**
 
 - _Meeting Janna and Ernesto_: City St George's, University of London (Tooting campus)
 
 ---
 
-#### Day 2
+**Day 2**
 
 **10:45 – 12:00 — Meeting**
 
@@ -40,10 +42,10 @@ Potential use of neurosymbolic AI to enhance the automated analysis of multimoda
 
 ---
 
-#### Janna's presentation**
+#### Janna's presentation
 
 **Title:**
-[Catching the Wave: Neuro-symbolic Approaches Help Manage Medical Evidence](../../assets/pdf/london-janna.pdf)
+[Catching the Wave: Neuro-symbolic Approaches Help Manage Medical Evidence](../../assets/pdf/meetups/london-janna.pdf)
 
 **Abstract:**
 
@@ -53,8 +55,10 @@ The talk demonstrates practical evaluations of open-source LLMs for literature s
 
 ---
 
+#### Ernesto's presentation
+
 **Title:**
-[Knowledge Graphs in the era of Large Language Models](../../assets/pdf/london-ernesto.pdf)
+[Knowledge Graphs in the era of Large Language Models](../../assets/pdf/meetups/london-ernesto.pdf)
 
 **Abstract:**
 
