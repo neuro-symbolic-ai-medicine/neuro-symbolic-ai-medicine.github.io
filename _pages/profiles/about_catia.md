@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Catia Pesquita</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">University of Lisbon, Portugal</h5>
 </header>
 
 Explainable Artificial Intelligence applied to Health and Biomedical Informatics.

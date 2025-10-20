@@ -1,10 +1,10 @@
 
 <header class="post-header">
 <h3 class="post-title">Dr. Ernesto Jiménez-Ruiz</h3>
-<h5 class="post-description">Network Co-lead</h5>
+<h5 class="post-description">City St George's, University of London</h5>
 </header>
 
-Senior Lecturer in Artificial Intelligence and Director of Research in Computer Science at City St George's, University of London. Ernesto is affiliated to the Research Center for Artificial Intelligence.
+Senior Lecturer in Artificial Intelligence and Director of Research at City St George's, University of London affiliated to the Research Center for Artificial Intelligence.
 
 <i class="fa fa-envelope"></i> <a href="mailto:ernesto.jimenez-ruiz@citystgeorges.ac.uk">Email</a> <br />
 <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=07ioke0AAAAJ&hl=en&oi=sra">Google Scholar</a> <br />

@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Natalia Díaz Rodríguez</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">University of Granada, Spain</h5>
 </header>
 
 Explainable AI, Responsible, Trustworthy AI and AI for social good. Study of gender and sex bias in health related data.

@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Ilaria Tiddi</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">Vrije Universiteit Amsterdam, Netherlands</h5>
 </header>
 
 Combination of machine learning, semantic technologies, open data and cognitive theories.

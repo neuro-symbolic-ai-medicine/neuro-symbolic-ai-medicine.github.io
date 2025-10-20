@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Michael Cochez</h3>
-<h5 class="post-description">Network Core Partner</h5>
+<h5 class="post-description">Vrije Universiteit Amsterdam, Netherlands</h5>
 </header>
 
 Michael is an Assistant Professor in the Learning and Reasoning (L&R) group, a group with a special focus on the ways machine learning, symbolic knowledge and formal reasoning can interact to enhance one another. 

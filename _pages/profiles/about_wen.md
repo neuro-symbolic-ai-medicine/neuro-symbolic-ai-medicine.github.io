@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Wen Zhang</h3>
-<h5 class="post-description">Network Colaborator</h5>
+<h5 class="post-description">Zhejiang University, China</h5>
 </header>
 
 Research Knowledge Graph; Representation Learning; Artificial Intelligence

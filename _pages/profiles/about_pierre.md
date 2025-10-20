@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Pierre Levy</h3>
-<h5 class="post-description">Network Colaborator</h5>
+<h5 class="post-description">University of Montreal, Canada</h5>
 </header>
 
 AI for Collective Intelligence.

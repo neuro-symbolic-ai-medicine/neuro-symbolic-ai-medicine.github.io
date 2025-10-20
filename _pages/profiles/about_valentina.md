@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Valentina Tamma</h3>
-<h5 class="post-description">Network Colaborator</h5>
+<h5 class="post-description">University of Liverpool</h5>
 </header>
 
 A Senior Lecturer at the Department of Computer Science, University of Liverpool. 

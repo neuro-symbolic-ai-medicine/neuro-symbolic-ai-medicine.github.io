@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Franklyn Arron Howe</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">St George's, London, UK</h5>
 </header>
 
 Professor of Magnetic Resonance Imaging
