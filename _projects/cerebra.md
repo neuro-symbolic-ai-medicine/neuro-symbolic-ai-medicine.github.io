@@ -3,7 +3,7 @@ layout: page
 title: CEREBRA-AI project bid
 description: Advancing GenAI4EU (RIA) (AI/Data/Robotics Partnership)
 img: assets/img/meetups/eu-cerebra-ai-a.jpg
-importance: 6
+importance: 2
 category: Projects
 related_publications: false
 ---

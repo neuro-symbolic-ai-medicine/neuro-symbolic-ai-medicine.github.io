@@ -3,7 +3,7 @@ layout: page
 title: NeSy for Primary Lymphoedema
 description: AI-assisted diagnosis of primary lymphoedema
 img: assets/img/meetups/lymphoscintigrams.png
-importance: 5
+importance: 1
 category: Projects
 related_publications: false
 ---
