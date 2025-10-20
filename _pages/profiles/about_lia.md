@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Lia Morra</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">Politecnico di Torino</h5>
 </header>
 
 Assistant Professor at Politecnico di Torino

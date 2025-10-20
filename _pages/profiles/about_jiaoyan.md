@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Jiaoyan Chen</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">University of Manchester, UK</h5>
 </header>
 
 Large language models and Knowledge graphs. Integration of biomedical ontologies.

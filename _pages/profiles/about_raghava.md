@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Raghava Mutharaju</h3>
-<h5 class="post-description">Network Colaborator</h5>
+<h5 class="post-description">IIIT-Delhi, India</h5>
 </header>
 
 Neurosymbolic AI for Biomedical Relation Extraction.

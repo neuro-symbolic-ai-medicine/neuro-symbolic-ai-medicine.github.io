@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Dagmar Gromann</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">University of Vienna, Austria</h5>
 </header>
 
 Bias in Large language Models and AI. Explainable AI.

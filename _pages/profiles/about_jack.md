@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Jack Gallifant</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">Harward University</h5>
 </header>
 
 AI researcher and engineer focused on robustness, interpretability, and agentic systems. Former NHS physician now building and evaluating AI for healthcare and beyond.

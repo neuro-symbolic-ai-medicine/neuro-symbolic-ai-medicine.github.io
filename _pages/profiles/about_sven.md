@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Sven Hertling</h3>
-<h5 class="post-description">Network Colaborator</h5>
+<h5 class="post-description">University of Mannheim, Germany</h5>
 </header>
 
 

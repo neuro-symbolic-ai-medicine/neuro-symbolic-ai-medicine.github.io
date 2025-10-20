@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Son N. Tran</h3>
-<h5 class="post-description">Network Colaborator</h5>
+<h5 class="post-description">Deakin University, Australia</h5>
 </header>
 
 Interpretability in AI.

@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Prof. Egor V. Kostylev</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">University of Oslo, Norway</h5>
 </header>
 
 Logical expressiveness of Graph Neural Networks.

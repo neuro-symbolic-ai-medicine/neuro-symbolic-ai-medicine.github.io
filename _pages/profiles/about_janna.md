@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Prof. Dr. Janna Hastings</h3>
-<h5 class="post-description">Network Lead</h5>
+<h5 class="post-description">University of Zurich</h5>
 </header>
 
 Assistant Professor for Medical Knowledge and Decision Support at the Institute for Implementation Science in Health Care, Medical Faculty, University of Zurich, and a member of the board of directors of the School of Medicine at the University of St.Gallen.

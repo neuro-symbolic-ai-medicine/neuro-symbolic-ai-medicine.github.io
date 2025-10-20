@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Associate Prof. Claudia d'Amato</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">University of Bari, Italy</h5>
 </header>
 
 Deep Learning and Knowledge Graphs.

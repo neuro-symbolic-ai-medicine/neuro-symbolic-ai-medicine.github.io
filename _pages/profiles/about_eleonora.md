@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Eleonora Giunchiglia</h3>
-<h5 class="post-description">Network Collaborator</h5>
+<h5 class="post-description">TU Wien, Austria</h5>
 </header>
 
 Deep Learning with Logical Constraints.

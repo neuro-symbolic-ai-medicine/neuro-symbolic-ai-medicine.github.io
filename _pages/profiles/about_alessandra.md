@@ -1,7 +1,7 @@
 
 <header class="post-header">
 <h3 class="post-title">Prof. Alessandra Mileo</h3>
-<h5 class="post-description">Network Core Partner</h5>
+<h5 class="post-description">Dublin City University</h5>
 </header>
 
 

@@ -1,8 +1,7 @@
----
 
   <header class="post-header">
     <h3 class="post-title">Prof. Dr. Pascal Hitzler</h3>
-    <h5 class="post-description">Network Core Partner</h5>
+    <h5 class="post-description">Kansas State University</h5>
   </header>
 
 Senior Lecturer in Artificial Intelligence and Director of Research at City St George's, University of London affiliated to the Research Center for Artificial Intelligence.
