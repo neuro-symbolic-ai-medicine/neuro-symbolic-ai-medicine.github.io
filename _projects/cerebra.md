@@ -15,12 +15,12 @@ related_publications: false
 </div>
 
 
-### Summary — CEREBRA-AI: A unified framework for continual, explainable and embodied General-Purpose Artificial Intelligence
+### CEREBRA-AI: A unified framework for continual, explainable and embodied General-Purpose Artificial Intelligence
 
 **Horizon Europe Call Details:**
 Topic: [HORIZON-CL4-2025-04-DIGITAL-EMERGING-07: Enhanced Learning Strategies for General Purpose AI: Advancing GenAI4EU (RIA) (AI/Data/Robotics Partnership)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL4-2025-04-DIGITAL-EMERGING-07)
 
-Several members of the Network have joined the **CEREBRA-AI** project consortia (project bid submitted in September 2026).
+Several members of the Network have joined the **CEREBRA-AI** project consortia (project bid submitted in September 2025).
 
 The **CEREBRA-AI** project proposes a unified framework for developing *Continual, Explainable, and Embodied General-Purpose AI (GPAI)* aligned with European values of safety, transparency, and human-centric innovation. CEREBRA-AI responds to key shortcomings of current large AI models—limited adaptability, weak reasoning, and a lack of self-awareness—by integrating neuro-symbolic reasoning, continual learning, and embodied interaction. Its overarching goal is to advance AI that can learn continually, reason logically, and explain its decisions, supporting reliable deployment across sensitive sectors such as healthcare.
 
