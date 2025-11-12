@@ -118,6 +118,7 @@ profiles:
     image_circular: true
 
   - align: left
+    image: /profiles/franklyn.jpeg
     content: /profiles/about_franklyn.md
     image_circular: true
 
@@ -137,6 +138,7 @@ profiles:
     image_circular: true
     
   - align: left
+    image: /profiles/sven.jpg
     content: /profiles/about_sven.md
     image_circular: true
 
