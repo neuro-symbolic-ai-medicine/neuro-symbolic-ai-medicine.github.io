@@ -438,9 +438,9 @@ ninja.data = [{
           description: "Advancing GenAI4EU (RIA) (AI/Data/Robotics Partnership)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cerebra/";
-            },},{id: "projects-collaborations-in-the-network",
-          title: 'Collaborations in the Network',
-          description: "Collaborations driven by the Network",
+            },},{id: "projects-network-driven-collaborations",
+          title: 'Network-driven collaborations',
+          description: "Collaborative initiatives led by the network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/collaborations/";
             },},{id: "projects-dagstuhl-2025",
