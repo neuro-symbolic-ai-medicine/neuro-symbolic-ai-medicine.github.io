@@ -5,7 +5,7 @@ permalink: /activities/
 description: Meetups and Projects.
 nav: true
 nav_order: 3
-display_categories: [Meetups, Projects]
+display_categories: [Meetups, Projects, Collaborations]
 horizontal: false
 ---
 
