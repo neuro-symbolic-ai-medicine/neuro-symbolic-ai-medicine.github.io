@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Collaborations in the Network
-description: Collaborations driven by the Network
+title: Network-driven collaborations
+description: Collaborative initiatives led by the network
 img: assets/img/meetups/ChatGPT_collaborations.png
 importance: 1
 category: Collaborations
 related_publications: false
 ---
 
-Collaborations that have started thanks to the Network.
+Collaborations that have started thanks to the Network:

@@ -32,5 +32,9 @@ Artificial intelligence is already transforming medicine, with systems like Chat
   <p>
 We have built a wide-ranging network to advance neurosymbolic AI in medicine. Together with key partners, we are defining a roadmap for transparent, fair, and safe medical AI. This network will lay the groundwork for future collaborations and larger research projects.
   </p>
+  
+  <p>
+  Get involved: ernesto[dot]jimenez-ruiz[at]citystgeorges[.]ac[.]uk
+  </p>
 
 ---
