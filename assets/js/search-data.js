@@ -438,6 +438,11 @@ ninja.data = [{
           description: "Advancing GenAI4EU (RIA) (AI/Data/Robotics Partnership)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cerebra/";
+            },},{id: "projects-collaborations-in-the-network",
+          title: 'Collaborations in the Network',
+          description: "Collaborations driven by the Network",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/collaborations/";
             },},{id: "projects-dagstuhl-2025",
           title: 'Dagstuhl 2025',
           description: "Dagstuhl Seminar 25291, 13-18 Jul 2025",
