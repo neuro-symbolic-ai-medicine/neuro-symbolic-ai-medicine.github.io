@@ -4,7 +4,7 @@
 <h5 class="post-description">Vrije Universiteit Amsterdam, Netherlands</h5>
 </header>
 
-Michael is an Assistant Professor in the Learning and Reasoning (L&R) group, a group with a special focus on the ways machine learning, symbolic knowledge and formal reasoning can interact to enhance one another. 
+Michael is a Principal Investigator at the ELLIS institute Finland and professor at Åbo Akademi. He is also affiliated with the Learning and Reasoning (L&R) group at Vrije Universiteit Amsterdam. The group has a special focus on the ways machine learning, symbolic knowledge and formal reasoning can interact to enhance one another. 
 
 In addition to a strong technical position in the field, the L&R group also brings expertise in the application of neurosymbolic AI techniques within the medical domain, where explainability was one of the core components. 
 
